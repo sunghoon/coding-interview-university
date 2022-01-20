@@ -244,7 +244,7 @@
 
 **새 브랜치를 만들어서 중괄호에 x를 추가하는 식으로 항목을 체크하세요: [x]**
 
-    브랜치를 포크(fork)하고 아래의 커맨드들을 입력하세요
+    [x] 브랜치를 포크(fork)하고 아래의 커맨드들을 입력하세요
 
 포크 버튼을 눌러 Github <https://github.com/jwasham/coding-interview-university> 레포지토리를 포크하세요.
 
